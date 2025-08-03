@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, meu nome é Gabriella Agnes e sou estudante de Análise e Desenvolvimento de Sistemas no IFSP de Bragança Paulista. Minha stack atual inclui HTML, CSS e JavaScript, com foco em desenvolvimento web. No momento, trabalho como auxiliar logística no setor de Packing do Mercado Livre em Extrema, MG, enquanto invisto no desenvolvimento do meu portfólio para transição de carreira para a área de tecnologia.
+  Olá, meu nome é Gabriella Agnes e sou estudante de Análise e Desenvolvimento de Sistemas no IFSP de Bragança Paulista. Minha stack atual inclui HTML, CSS e JavaScript, com foco em desenvolvimento web. No momento, trabalho como freelancer desenvolvendo aplicativos para pequenas empresas e empresários autônomos, enquanto invisto no desenvolvimento do meu portfólio para transição de carreira para a área de tecnologia.
 </p>
 
 ## Minhas Skills
